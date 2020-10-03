@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLAM4-ACCESMYSQL-Form", "SLAM4-ACCESMYSQL-Form\SLAM4-ACCESMYSQL-Form.csproj", "{B59081C1-2BA8-42E0-852F-4B7EE3F73B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59081C1-2BA8-42E0-852F-4B7EE3F73B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59081C1-2BA8-42E0-852F-4B7EE3F73B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59081C1-2BA8-42E0-852F-4B7EE3F73B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59081C1-2BA8-42E0-852F-4B7EE3F73B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF08BC5-8E38-4154-9F4F-82104DE982AB}
+	EndGlobalSection
+EndGlobal
